@@ -1,0 +1,169 @@
+: PID: 5516
+: CPU: arch=x86-64 , fam=586 , cpus=2
+: SIMD: SSE=3 , 3DNow=0 , MMX=1
+: OS Version: 6.2.9200 
+: Desktop resolution: 1366 x 768
+: Virtual desktop resolution: 1366 x 768
+: -----------------------------------------------------------
+: Command line: "C:\Users\Fleur\Desktop\your games\system shock 2\ss2.exe" window
+: -----------------------------------------------------------
+: CWD: C:\Users\Fleur\Desktop\your games\system shock 2
+: -----------------------------------------------------------
+: App Version: System Shock 2 Patch Final 2.46
+: --------------------- misc config -------------------------
+: resname_base .\+.\Data+.\Data\res
+: load_path .\+.\misdml+.\Data
+: script_module_path .\+.\Data
+: movie_path .\cutscenes+.\Data\cutscenes
+: mod_path .\patch_ext
+: language english
+: game_screen_size 1024 600
+: game_screen_depth 32
+: game_screen_flags 47
+: game_full_screen 1
+: screen_size 1152,864
+: screen_depth 16
+: d3d_driver_index 0
+: game_hardware 1
+: single_display_mode 2
+: ui_scale_mode 2
+: use_d3d_display
+: framerate_cap 100.0
+: SlowFrame 4
+: SlowFrameUI 10
+: force_32bit
+: force_32bit_textures
+: mipmap_mode 2
+: lm_mipmap_mode 0
+: lm_init_texmem 2
+: lm_filter_margin 1
+: disable_lightmap_aniso
+: tex_edge_padding 2
+: alpha_test_as_opaque
+: d3d_disp_enable_distortionfx
+: sfx_device 4
+: sfx_channels 48
+: sfx_vol_music -497
+: sfx_vol_2d 0
+: sfx_vol_3d 0
+: sfx_mixer_timeout 200
+: game shock
+: obj_min -6144
+: obj_max 8000
+: max_refs 32768
+: gui_font fonts\mainfont
+: enhanced_sky 0
+: skip_intro
+: z_far 512
+: wr_render_zcomp
+: render_weapon_particles
+: legacy_force_match_unrefs 0
+: shock_single_bind_set
+: shock_quicksave_slot 14
+: edit_screen_size 1152,864  
+: edit_screen_depth 16
+: -----------------------------------------------------------
+: Enumerating D3D9 adapters (1)...
+:    Adapter 0
+:       device name: \\.\DISPLAY1
+:       driver     : aticfx32.dll
+:       descr      : AMD Radeon HD 6310 Graphics
+:       driver ver : 0x00080011-000A057C
+:       vendor id  : 0x00001002
+:       device id  : 0x00009802
+:       subsys id  : 0x3577103C
+:       device guid: D7B71EE2-DB42-11CF-F076-7D15BEC2
+:       desktop res: 1366 x 768
+:       Modes
+:          640 x 480 x 32
+:          unsupported mode 800 x 480 x 32 (not in mode table)
+:          800 x 600 x 32
+:          1024 x 600 x 32
+:          1024 x 768 x 32
+:          1280 x 720 x 32
+:          1280 x 768 x 32
+:          1360 x 768 x 32
+:          1366 x 768 x 32
+:       Device Validation
+:          validated ok, device added (0, E390000)
+: Enumeration done
+: OpenAL Init...
+:    OpenAL32.dll: 6.14.357.25
+:    wrap_oal.dll: 2.2.0.7
+:    Default device: Generic Software
+:    Enumerating devices without validation...
+:       Device: Generic Software
+:       found 1 unvalidated device(s)
+:    Enumerating extended devices without validation...
+:       Device: Generic Software on Speakers (Realtek High Definition Audio)
+:       found 1 unvalidated extended device(s)
+:    Opening default OpenAL device "Generic Software"...
+:       Device 0 (default)
+:          name       : Generic Software
+:          version    : 1.1
+:          version str: 1.1
+:          vendor     : Creative Labs Inc.
+:          renderer   : Software
+:          3D sources : 248
+:          2D sources : 8
+:          EFX        : 1
+:          EAX2       : 1
+:          EAX3       : 0
+:          EAX4       : 0
+:          EAX5       : 0
+:          occlusion  : 1
+:          XRAM       : 0
+:    Opened device 'Generic Software'
+:       EAX reverb support enabled
+:       occlusion support enabled
+: D3DProvider: Enumerating adapter 0 modes
+:    640 x 480 x 32
+:    unsupported mode 800 x 480 x 32 (not in mode table)
+:    800 x 600 x 32
+:    1024 x 600 x 32
+:    1024 x 768 x 32
+:    1280 x 720 x 32
+:    1280 x 768 x 32
+:    1360 x 768 x 32
+:    1366 x 768 x 32
+: D3DProvider: Enumeration done
+: sw framerate cap requested (10000 us)
+: D3DProvider StartMode: smode 1024x600x32 ; mode 640x480x32 (5 9 0 2D) ; 2d_surf_mode: 0
+:    CreateDevice: res = D3D_OK ; 1024x600 fmt=22 zfmt=75 cnt=1 ms=0 swap=1 fs=1 hz=0 pres=1 flags=2
+: Failed to load script module "baseelev.osm" (error code 126)
+: Loaded script module "allobjs.osm" [FileModDate=1999-Sep-09]
+: Failed to load script module "+xÂA.osm" (error code 126)
+: Failed to load script module "traps.osm" (error code 126)
+: Failed to load script module "NVScript.osm" (error code 126)
+: Loaded script module "Squirrel.osm" [FileVer=1.0.0.0 ; ProductVer=1.0.0.0 ; FileModDate=2018-May-12]
+: sw framerate cap requested (10000 us)
+: D3DProvider StartMode: smode 1024x600x32 ; mode 1024x600x32 (7 9 1 3D) ; 2d_surf_mode: 3
+: sw framerate cap requested (10000 us)
+: D3DProvider StartMode: smode 1024x600x32 ; mode 640x480x32 (5 9 1 2D) ; 2d_surf_mode: 0
+: Failed to load script module "traps.osm" (error code 126)
+: Failed to load script module "+xÂA.osm" (error code 126)
+: Loaded script module "allobjs.osm" [FileModDate=1999-Sep-09]
+: Failed to load script module "baseelev.osm" (error code 126)
+: Failed to load script module "NVScript.osm" (error code 126)
+: Loaded script module "Squirrel.osm" [FileVer=1.0.0.0 ; ProductVer=1.0.0.0 ; FileModDate=2018-May-12]
+: sw framerate cap requested (10000 us)
+: D3DProvider StartMode: smode 1024x600x32 ; mode 1024x600x32 (7 9 1 3D) ; 2d_surf_mode: 3
+: sw framerate cap requested (10000 us)
+: D3DProvider StartMode: smode 1024x600x32 ; mode 640x480x32 (5 9 1 2D) ; 2d_surf_mode: 0
+: Failed to load script module "baseelev.osm" (error code 126)
+: Loaded script module "allobjs.osm" [FileModDate=1999-Sep-09]
+: Failed to load script module "+xÂA.osm" (error code 126)
+: Failed to load script module "traps.osm" (error code 126)
+: Failed to load script module "NVScript.osm" (error code 126)
+: Loaded script module "Squirrel.osm" [FileVer=1.0.0.0 ; ProductVer=1.0.0.0 ; FileModDate=2018-May-12]
+: sw framerate cap requested (10000 us)
+: D3DProvider StartMode: smode 1024x600x32 ; mode 1024x600x32 (7 9 1 3D) ; 2d_surf_mode: 3
+: sw framerate cap requested (10000 us)
+: D3DProvider StartMode: smode 1024x600x32 ; mode 640x480x32 (5 9 1 2D) ; 2d_surf_mode: 0
+: Loaded script module "allobjs.osm" [FileModDate=1999-Sep-09]
+: Failed to load script module "NVScript.osm" (error code 126)
+: Loaded script module "Squirrel.osm" [FileVer=1.0.0.0 ; ProductVer=1.0.0.0 ; FileModDate=2018-May-12]
+: sw framerate cap requested (10000 us)
+: D3DProvider StartMode: smode 1024x600x32 ; mode 1024x600x32 (7 9 1 3D) ; 2d_surf_mode: 3
+: sw framerate cap requested (10000 us)
+: D3DProvider StartMode: smode 1024x600x32 ; mode 640x480x32 (5 9 1 2D) ; 2d_surf_mode: 0
