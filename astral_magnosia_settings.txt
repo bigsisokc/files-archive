@@ -1,0 +1,10 @@
+worldCameraPitch = -80
+worldCameraRoll = 0
+FOV = 270
+cubeMapType = 512
+antiAliasingType = Off
+vSync = 0
+backFadeIntensity = 0.1
+crescentFadeIntensity = 0.5
+crescentFadeRadius = 0.8
+crescentFadeOffset = -0.2
